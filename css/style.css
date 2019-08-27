@@ -1,0 +1,68 @@
+* {
+    font-family: 'PT Sans', sans-serif;
+}
+h1 {
+    font-weight: bold;
+    font-size: 32px;
+    margin-bottom: 18px;
+}
+p {
+    color: #555555;
+}
+/*navbar start*/
+.brand-text {
+    font-weight: bold;
+    font-size: 30px;
+    color: #010101;
+    margin-top: 10px;
+}
+.custom-navbar-nav {}
+.custom-navbar-nav li {}
+.custom-navbar-nav li a {
+    font-weight: bold;
+    font-size: 22px;
+    padding: 0 35px !important;
+    color: #010101 !important;
+    transition: all .3s;
+}
+.custom-navbar-nav li a:hover {
+    color: #f1eeee !important;
+}
+.custom-navbar-nav li:last-child a {
+    padding-right: 0 !important;
+} 
+/*navbar end*/
+/*slider start*/
+#slider .inspire_text {
+    padding: 6rem 0;
+}
+#slider h2 {
+    font-size: 20px;
+    color: #313841;
+}
+.custom-carousel-indicators {
+    bottom: -30px;
+}
+.custom-carousel-indicators li {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+}
+/*slider end*/
+/*feature start*/
+#feature i {
+    width: 50px;
+    text-align: center;
+}
+/*feature end*/
+/*contact start*/
+#contact, footer {
+    background-color: #010101;
+}
+#contact h1 {
+    color: #fcdb00;
+}
+.social-icon li a:hover {
+    color: #bcc123;
+}
+/*contact end*/
