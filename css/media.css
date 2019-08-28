@@ -15,6 +15,7 @@
 @media (min-width: 576px) and (max-width: 767.98px) {
     .custom-navbar-nav li a {
         text-align: right;
+        padding-right: 0 !important;
     }
     #slider h1 {
         
